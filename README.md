@@ -1,2 +1,2 @@
 # spring-boot-graalvm-knative
-Demo Project that use Spring Boot applications with GraalVM and run them in serverless architecture on Knative platform
+Demo Project that is based on Spring Boot with GraalVM and run in serverless architecture on Knative platform.
